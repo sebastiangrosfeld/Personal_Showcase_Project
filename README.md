@@ -6,7 +6,7 @@ Repository for personal project which will combine technologies familiar to the 
 # Design objectives:
 
 ## Main objective:
-- Design and development DevFlow-Type project based on micro-services architecture for both the backend and frontend.
+- Design and development DevFlow-Type project based on micro-services architecture for both the back-end and front-end.
 
 ## Other objectives:
 - Design an effective comunication structure between services based on queue systems.
